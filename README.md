@@ -20,4 +20,4 @@ Videospēles
 
 ## Pieredze programmēšanā
 1 gads css/html
-6 mēneši
+6 mēneši python
