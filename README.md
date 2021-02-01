@@ -2,22 +2,22 @@
 Niklāvs Dāvis Meija ![Bilde](https://lh3.googleusercontent.com/aZAovK90RcI8jrDRndUi1hYQWFxXwDLzKqcGCmWJJAVhus5ZDL9HRqy0ydA4P5wUTHUA_yV9LdH6YM9yhJBD1ZcwdOnznVOHi4c7b_QzAgeO0_5c8BGDXIiutIj5wCAzUnph0_R8Oh5ywVhnF5qrT20YV4Q0A0uf2lWKv5ySjQ2fMzGlAHTi68J2dyNWONfRu8NYDwlf1LC9jjStXNUViHsZh62c5TxQrPHafrPKzEDVR3_UvOd_TP6bWr7I6sckargHB09PghnHlQ1F9NkUpeSlL3_0OS0df1NN0PSRUrUWa5b-YoBVSkIgCjXOPfD7kCeEQ0NjLkRzuzhvq2Wrk5_E19itDzsUCbaVVYdQJeycMWkZ1l2dIrGy64oBOyt_O4z9bCfHr4lDAo-Do1psBP6VBXDAV4JUvElCM3j0TIj-3WKOrV6G8ntSG9pQR8aZ074CUDf60Wq-_AeM3BeSFt98O8yVMUhkzzCPR2HJStBn3nKuetXwZjxYIzZ2BoZukC680xhME_Cl9XTfI9ImKP5NizZT_WJqiM_UfJY3R6ZrPzpMZfbxcovpxcYMTZxA1jhd4ksKZsOEzYWmMQZAtQbNom3qv--NXO3IjmIEbYzg5IVBa5_uPs3gt8iIespsHtiw3mSvQAilaMu3NCJ-EHarmorRa7L7XPKX5GKhV22Nn33pDCW_LXk7i8KsuA=w640-h480-no?authuser=0)
 
 ## Izglītība
-2011-2016 Dobeles 1. vidusskola
-2016-2020 Rīgas 85. vidusskola
+2011-2016 Dobeles 1. vidusskola,
+2016-2020 Rīgas 85. vidusskola,
 2020- pašlaik Rīgas Valsts tehnikums.
 
 ## Sasniegumi
 
-Top 100 Rubiku kubiku sacencībās Latvijā
-Kickflips ar skeitbordu
+Top 100 Rubiku kubiku sacencībās Latvijā,
+Kickflips ar skeitbordu.
 
 ## Hobiji
 
-Mūzikas veidošana
-Skeitbordošana
-Rubiks kubiks
-Videospēles
+Mūzikas veidošana,
+Skeitbordošana,
+Rubiks kubiks,
+Videospēles.
 
 ## Pieredze programmēšanā
-1 gads css/html
+1 gads css/html,
 6 mēneši python
